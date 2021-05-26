@@ -5,12 +5,13 @@ import Head from 'next/head';
 function sobre () {
     return <div>
         <head><title>Página 2</title></head>
-        <h1 className="primeiro">Henrique gostosa</h1>
+        <h1><Link href="/">
+        <a className="teste">Henrique gostosa</a>
+        </Link> </h1>
         <Image src="/ameheart.png"
         width={100}
         height={100}
         /><br/>
-        <Link href="/"><a>Voltar a página inicial</a></Link><br/>
     </div>
 }
 export default sobre

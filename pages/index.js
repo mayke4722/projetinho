@@ -5,7 +5,7 @@ function home () {
     return <div>
         <head><title>Primeira página</title></head>
         <h1><Link href="/sobre">
-        <a className="teste">Páginazinha</a>
+        <a className="teste">Paginazinha</a>
         </Link> </h1>
         <Image className="astolfo"
         src="/tolfin.png"
