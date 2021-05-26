@@ -1,4 +1,4 @@
 function home () {
-    return <div>Home 2</div>
+    return <div>Nyago gostosa.</div>
 }
 export default home
