@@ -6,8 +6,8 @@ function sobre () {
          <Image
         src="/kkkgostosa.png"
         alt="Picture of the author"
-        width={500}
-        height={500}
+        width={180}
+        height={180}
       />
         <form>
             <label><h1>ash gostosa?</h1></label>
