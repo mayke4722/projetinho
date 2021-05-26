@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import Head from 'next/head';
+import Image from 'next/image';
 function home () {
     return <div>
         <head><title>Página Inicial</title></head>
