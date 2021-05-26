@@ -1,7 +1,12 @@
 import Link from 'next/link';
 function sobre () {
     return <div>
-        <image src="/kkkgostosa.png"/>
+        <Image 
+        src="/kkkgostosa.png"
+        alt="gostosa"
+        width={50}
+        height={50}
+        />
         <Link href="/"><a>Voltar a página inicial</a></Link>
         <form>
             <label>Rique gostosa?</label>
