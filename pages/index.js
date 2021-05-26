@@ -5,7 +5,11 @@ function home () {
     return <div>
         <head><title>Página Inicial</title></head>
         <h1 className="teste">Página Inicial</h1>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/L9r-NxuYszg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+        <Image
+        src="tolfin.png"
+        width={680}
+        height={500}
+        />
         <Link href="/sobre">
         <a>Acessar página sobre</a>
         </Link>
