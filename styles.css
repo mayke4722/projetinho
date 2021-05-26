@@ -4,9 +4,14 @@ body {
 .teste {color: #ff87ab;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 text-decoration: none;}
-.primeiro {color: #ff87ab;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;}
-
+.linkin {
+      background-color: #ff87ab;
+      color: white;
+      padding: 14px 25px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
 .astolfo > div {
   margin: 0 auto;
 }

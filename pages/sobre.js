@@ -8,9 +8,9 @@ function sobre () {
         <h1><Link href="/">
         <a className="teste">Henrique gostosa</a>
         </Link> </h1>
-        <Image src="/ameheart.png"
-        width={100}
-        height={100}
+        <Image src="/mori.gif"
+        width={371}
+        height={448}
         /><br/>
     </div>
 }
