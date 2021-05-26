@@ -2,7 +2,12 @@ import Link from 'next/link';
 import Image from 'next/image';
 function sobre () {
     return <div>
-        <Image src="/kkkgostosa.png" width={50} height={50}/>
+         <Image
+        src="/kkkgostosa.png"
+        alt="Picture of the author"
+        width={500}
+        height={500}
+      />
         <form>
             <label><h1>ash gostosa?</h1></label>
             <input type="checkbox"/>sim<br/>
