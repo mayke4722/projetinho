@@ -3,15 +3,15 @@ import Head from 'next/head';
 import Image from 'next/image';
 function home () {
     return <div>
-        <head><title>Página Inicial</title></head>
-        <h1 className="teste">Página Inicial</h1>
-        <Image className="floatRight"
+        <head><title>Primeira página</title></head>
+        <h1 className="teste">Paginazinha </h1>
+        <Image className="astolfo"
         src="/tolfin.png"
         width={390}
         height={516}
         />
         <Link href="/sobre">
-        <a>Acessar página sobre</a>
+        <a>Ir para a segunda página</a>
         </Link>
     </div>
     

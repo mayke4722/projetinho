@@ -1,6 +1,11 @@
 body {
-    background-color: #64dfdf;
+    background-color: #ffc6ff;
 }
-.teste {color: #6930c3;}
-.primeiro {color: #6930c3}
-.floatRight{float:left;margin-right:20px}
+.teste {color: #ff0a54;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.primeiro {color: #ff0a54;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+.astolfo > div {
+  margin: 0 auto;
+}
