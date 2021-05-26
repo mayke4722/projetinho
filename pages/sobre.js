@@ -6,7 +6,7 @@ function sobre () {
     return <div>
         <head><title>FATOS</title></head>
         <h1><Link href="/">
-        <a className="teste">Henrique gostosa</a>
+        <a className="teste">Henrique e Mayke gostosas</a>
         </Link> </h1>
         <Image src="/mori.gif"
         width={371}
