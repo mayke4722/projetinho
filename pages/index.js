@@ -4,7 +4,7 @@ import Image from 'next/image';
 function home () {
     return <div>
         <head><title>Primeira página</title></head>
-        <h1 className="teste">Paginazinha </h1>
+        <h1 className="teste"><a href="/sobre">Paginazinha </a></h1>
         <Image className="astolfo"
         src="/tolfin.png"
         width={390}
