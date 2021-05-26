@@ -5,11 +5,11 @@ function home () {
         <head><title>Página Inicial</title></head>
         <h1>Página Inicial</h1>
         <Link href="/sobre">
-        <a>Acessar página sobre</a>
+        <a>Acessar página foda</a>
         </Link>
         <style jsx global>{`
   body {
-    background: #FF0000};
+    background: #EDC7B7};
   }
 `}</style>
     </div>
