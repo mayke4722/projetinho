@@ -1,11 +1,12 @@
 import Link from 'next/link';
 function sobre () {
     return <div>
-        <h1>Sobre</h1>
-        <Link href="/"><a>Rique gostosa</a></Link>
+        <image src="/kkkgostosa.png"/>
+        <Link href="/"><a>Voltar a página inicial</a></Link>
         <form>
             <label>Rique gostosa?</label>
-            <input type="checkbox"/>sim
+            <input type="checkbox"/>sim<br/>
+            <input type="checkbox"/>com certeza<br/>
         </form>
         <style jsx global>{`
   body {
