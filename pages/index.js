@@ -8,11 +8,6 @@ function home () {
         <Link href="/sobre">
         <a>Acessar página foda</a>
         </Link>
-        <style jsx global>{`
-  body {
-    background: #EDC7B7};
-  }
-`}</style>
     </div>
     
 }
