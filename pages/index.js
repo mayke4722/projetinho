@@ -6,7 +6,6 @@ function home () {
         <Link href="/sobre">
         <a>Acessar página sobre</a>
         </Link>
-        <img src="tolfin.png"></img>
     </div>
 }
 export default home
