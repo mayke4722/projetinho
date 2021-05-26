@@ -2,7 +2,7 @@ import Link from 'next/link';
 function sobre () {
     return <div>
         <form>
-            <label><h1>ash gostosa?</h1></label><br/>
+            <label><h1>ash gostosa?</h1></label>
             <input type="checkbox"/>sim<br/>
             <input type="checkbox"/>com certeza<br/>
         </form>
