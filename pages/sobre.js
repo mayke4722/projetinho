@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import Image from 'next/image'
+import Image from 'next/image';
 function sobre () {
     return <div>
         <Image src="/kkkgostosa.png" width={50} height={50}/>
