@@ -3,7 +3,7 @@ function sobre () {
     return <div>
         <Link href="/"><a>Voltar a página inicial</a></Link>
         <form>
-            <label>Rique gostosa?</label>
+            <label>Rique gostosa?</label><br/>
             <input type="checkbox"/>sim<br/>
             <input type="checkbox"/>com certeza<br/>
         </form>
